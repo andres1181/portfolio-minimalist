@@ -6,7 +6,7 @@
       "email": "john@gmail.com",
       "phone": "(912) 555-4321",
       "url": "https://johndoe.com",
-      "summary": "A summary of John Doe…",
+      "summary": "¡Hola! Soy Andrés, un apasionado desarrollador Full Stack con conocimientos en varias tecnologías web. Aunque no tengo experiencia laboral formal, he estado explorando el mundo del desarrollo y creando proyectos interesantes. Mi objetivo es seguir aprendiendo y contribuir al mundo digital.",
       "location": {
         "address": "2712 Broadway St",
         "postalCode": "CA 94115",
@@ -33,15 +33,49 @@
     },
     "work": [{
       "name": "Company",
-      "position": "President",
+      "position": "CEO - Chief Executive Officer)",
       "url": "https://company.com",
       "startDate": "2013-01-01",
       "endDate": "2014-01-01",
-      "summary": "Description…",
+      "summary": "Máximo responsable de la gestión y administración de Company 1. Define la dirección estratégica, toma decisiones clave y orienta los objetivos del negocio.",
       "highlights": [
         "Started the company"
       ]
-    }],
+    },
+    {
+      "name": "Company 2",
+      "position": "COO - Chief Operating Officer",
+      "url": "https://company2.com",
+      "startDate": "2014-02-01",
+      "endDate": "2016-01-01",
+      "summary": "El COO es el segundo al mando. Supervisa las actividades diarias, garantiza la eficiencia de los procesos y se asegura de que todo funcione correctamente en Company 2.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Company 3",
+      "position": "CMO - Chief Marketing Officer",
+      "url": "https://company2.com",
+      "startDate": "2016-03-01",
+      "endDate": "2019-11-01",
+      "summary": "Lidera la estrategia de marketing de Company 3. Define campañas, promociones y estrategias para atraer y retener clientes.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Company 4",
+      "position": "CFO - Chief Financial Officer",
+      "url": "https://company2.com",
+      "startDate": "2020-03-01",
+      "endDate": "2024-05-01",
+      "summary": "Responsable de las finanzas de Company 4. Supervisa presupuestos, inversiones, reportes financieros y estrategias de crecimiento.",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+    ],
     "volunteer": [{
       "organization": "Organization",
       "position": "Volunteer",
@@ -84,8 +118,27 @@
       "url": "https://publication.com",
       "summary": "Description…"
     }],
-    "skills": [{
-      "name": "Web Development",
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "Master",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ]
+      },
+      {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "HTML",
       "level": "Master",
       "keywords": [
         "HTML",
