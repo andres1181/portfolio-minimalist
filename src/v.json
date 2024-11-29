@@ -1,0 +1,195 @@
+{
+    "basics": {
+      "name": "John Doe",
+      "label": "Programmer",
+      "image": "https://picsum.photos/id/201/200",
+      "email": "john@gmail.com",
+      "phone": "(912) 555-4321",
+      "url": "https://johndoe.com",
+      "summary": "¡Hola! Soy Andrés, un apasionado desarrollador Full Stack con conocimientos en varias tecnologías web. Aunque no tengo experiencia laboral formal, he estado explorando el mundo del desarrollo y creando proyectos interesantes. Mi objetivo es seguir aprendiendo y contribuir al mundo digital.",
+      "location": {
+        "address": "2712 Broadway St",
+        "postalCode": "CA 94115",
+        "city": "San Francisco",
+        "countryCode": "US",
+        "region": "California"
+      },
+      "profiles": [
+        {
+          "network": "X",
+          "username": "john",
+          "url": "https://twitter.com/"
+        },
+        {
+          "network": "LinkedIn",
+          "username": "john",
+          "url": "https://LinkedIn.com/"
+        },
+        {
+          "network": "GitHub",
+          "username": "john",
+          "url": "https://GitHub.com/"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "Company",
+        "position": "CEO - Chief Executive Officer)",
+        "url": "https://company.com",
+        "startDate": "2013-01-01",
+        "endDate": "2014-01-01",
+        "summary": "Máximo responsable de la gestión y administración de Company 1. Define la dirección estratégica, toma decisiones clave y orienta los objetivos del negocio.",
+        "highlights": [
+          "Started the company"
+        ]
+      },
+      {
+        "name": "Company 2",
+        "position": "COO - Chief Operating Officer",
+        "url": "https://company2.com",
+        "startDate": "2014-02-01",
+        "endDate": "2016-01-01",
+        "summary": "El COO es el segundo al mando. Supervisa las actividades diarias, garantiza la eficiencia de los procesos y se asegura de que todo funcione correctamente en Company 2.",
+        "highlights": [
+          "Started the company"
+        ]
+      },
+      {
+        "name": "Company 3",
+        "position": "CMO - Chief Marketing Officer",
+        "url": "https://company2.com",
+        "startDate": "2016-03-01",
+        "endDate": "2019-11-01",
+        "summary": "Lidera la estrategia de marketing de Company 3. Define campañas, promociones y estrategias para atraer y retener clientes.",
+        "highlights": [
+          "Started the company"
+        ]
+      },
+      {
+        "name": "Company 4",
+        "position": "CFO - Chief Financial Officer",
+        "url": "https://company2.com",
+        "startDate": "2020-03-01",
+        "endDate": "2024-05-01",
+        "summary": "Responsable de las finanzas de Company 4. Supervisa presupuestos, inversiones, reportes financieros y estrategias de crecimiento.",
+        "highlights": [
+          "Started the company"
+        ]
+      }
+    ],
+    "volunteer": [
+      {
+        "organization": "Organization",
+        "position": "Volunteer",
+        "url": "https://organization.com/",
+        "startDate": "2012-01-01",
+        "endDate": "2013-01-01",
+        "summary": "Description…",
+        "highlights": [
+          "Awarded 'Volunteer of the Month'"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "University",
+        "url": "https://institution.com/",
+        "area": "Software Development",
+        "studyType": "Bachelor",
+        "startDate": "2011-01-01",
+        "endDate": "2013-01-01",
+        "score": "4.0",
+        "courses": [
+          "DB1101 - Basic SQL"
+        ]
+      }
+    ],
+    "awards": [
+      {
+        "title": "Award",
+        "date": "2014-11-01",
+        "awarder": "Company",
+        "summary": "There is no spoon."
+      }
+    ],
+    "certificates": [
+      {
+        "name": "Certificate",
+        "date": "2021-11-07",
+        "issuer": "Company",
+        "url": "https://certificate.com"
+      }
+    ],
+    "publications": [
+      {
+        "name": "Publication",
+        "publisher": "Company",
+        "releaseDate": "2014-10-01",
+        "url": "https://publication.com",
+        "summary": "Description…"
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "Master",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ]
+      },
+      {
+        "name": "CSS",
+        "level": "Master",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ]
+      },
+      {
+        "name": "HTML",
+        "level": "Master",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "fluency": "Native speaker"
+      }
+    ],
+    "interests": [
+      {
+        "name": "Wildlife",
+        "keywords": [
+          "Ferrets",
+          "Unicorns"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "name": "Jane Doe",
+        "reference": "Reference…"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Project",
+        "startDate": "2019-01-01",
+        "endDate": "2021-01-01",
+        "description": "Description...",
+        "highlights": [
+          "Won award at AIHacks 2016"
+        ],
+        "url": "https://project.com/"
+      }
+    ]
+  }

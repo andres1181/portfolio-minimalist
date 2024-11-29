@@ -1,0 +1,299 @@
+{
+    "basics": {
+      "name": "Juan Arango",
+      "label": "Programador Full Stack",
+      "image": "https://www.esan.edu.pe/conexion-esan/imagen-profesional-mas-alla-del-buen-vestir",
+      "email": "juan.perez@correo.electrónico.com",
+      "phone": "(57) 312 345 6789",
+      "url": "https://www.hostinger.es/tutoriales/ejemplos-paginas-web-personales",
+      "summary": "¡Hola! Soy Juan Pérez, un apasionado desarrollador Full Stack con más de 5 años de experiencia en la industria. Me especializo en el desarrollo de aplicaciones web modernas y escalables utilizando tecnologías como JavaScript, React, Node.js y Python. Tengo una gran pasión por la tecnología y me encanta estar a la vanguardia de las últimas tendencias. Busco constantemente nuevos desafíos y oportunidades para aprender y crecer como desarrollador.",
+      "location": {
+        "address": "Calle 123 # 456, Bogotá, Colombia",
+        "postalCode": "11111",
+        "city": "Bogotá",
+        "countryCode": "CO",
+        "region": "Cundinamarca"
+      },
+      "profiles": [
+      {
+        "network": "X",
+        "username": "john",
+        "url": "https://twitter.com/"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "john",
+        "url": "https://LinkedIn.com/"
+      },
+      {
+        "network": "GitHub",
+        "username": "john",
+        "url": "https://GitHub.com/"
+      }
+    ]
+    },
+    
+    "work": [
+      {
+        "name": "Empresa A",
+        "position": "Desarrollador Full Stack Senior",
+        "url": "https://www.webempresa.com/",
+        "startDate": "2019-01-01",
+        "endDate": "Presente",
+        "summary": "Responsable del diseño, desarrollo y mantenimiento de aplicaciones web y móviles para Empresa A. He liderado el desarrollo de varios proyectos exitosos, incluyendo una nueva plataforma de comercio electrónico que ha aumentado las ventas en un 20%. Me apasiona trabajar en equipo y colaboro estrechamente con diseñadores, analistas y otros desarrolladores para crear soluciones innovadoras y de alta calidad.",
+        "highlights": [
+          "Desarrollo de una nueva plataforma de comercio electrónico que ha aumentado las ventas en un 20%.",
+          "Liderazgo de un equipo de 5 desarrolladores en el desarrollo de una aplicación móvil que ha sido descargada más de 100.000 veces.",
+          "Implementación de nuevas tecnologías como React y Node.js para mejorar el rendimiento y la escalabilidad de las aplicaciones."
+        ]
+      },
+      {
+        "name": "Empresa B",
+        "position": "Desarrollador Full Stack",
+        "url": "https://www.sistemab.org/",
+        "startDate": "2017-01-01",
+        "endDate": "2019-01-01",
+        "summary": "Desarrollé y mantuve aplicaciones web y móviles para Empresa B. Trabajé en estrecha colaboración con diseñadores y analistas para traducir los requisitos del negocio en soluciones técnicas. Me enorgullezco de haber contribuido al éxito de la empresa al desarrollar aplicaciones confiables y fáciles de usar.",
+        "highlights": [
+          "Desarrollo de una aplicación web que ha reducido el tiempo de procesamiento de pedidos en un 30%.",
+          "Integración de una nueva API de pagos que ha mejorado la experiencia del cliente.",
+          "Implementación de prácticas de desarrollo ágiles para mejorar la eficiencia y la calidad del código."
+        ]
+      }
+    ],
+    "volunteer": [
+      {
+        "organization": "Organización X",
+        "position": "Voluntario",
+        "url": "https://www.youtube.com/channel/UC9xa8x0fATuzwpC98VJUfGw",
+        "startDate": "2018-01-01",
+        "endDate": "Presente",
+        "summary": "Brindo apoyo técnico a una organización sin fines de lucro que trabaja para ayudar a personas en situación de pobreza. He desarrollado un sistema de gestión de voluntarios que ha facilitado la organización y el seguimiento de las actividades de la organización. Me siento orgulloso de poder utilizar mis habilidades para ayudar a otros.",
+        "highlights": [
+          "Desarrollo de un sistema de gestión de voluntarios que ha facilitado la organización y el seguimiento de las actividades de la organización.",
+          "Implementación de una nueva solución de almacenamiento en la nube que ha mejorado la accesibilidad de los datos de la organización.",
+          "Brindación de soporte técnico a los voluntarios y al personal de la organización."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidad Y",
+        "url": "https://www.yale.edu/",
+        "area": "Ingeniería Informática",
+        "studyType": "Licenciatura",
+        "startDate": "2015-01-01",
+        "endDate": "2019-01-01",
+        "score": "3.8",
+        "courses": [
+          "Desarrollo Web con HTML, CSS y JavaScript",
+          "Bases de Datos Relacionales",
+          "Programación Orientada a Objetos",
+          "Arquitectura de Software",
+          "Metodologías de Desarrollo Ágiles"
+        ]
+      }
+    ],
+    "awards": [
+      {
+        "title": "Premio al Mejor Desarrollador",
+        "date": "2020-11-15",
+        "awarder": "Empresa A",
+        "summary": "Otorgado por mi destacada labor en el desarrollo de la nueva plataforma de comercio electrónico."
+      },
+      {
+        "title": "Beca para Jóvenes Talentos",
+        "date": "2018-07-01",
+        "awarder": "Fundación Z",
+        "summary": "Otorgada por mi potencial como futuro líder en la industria tecnológica."
+      }
+    ],
+    "certificates": [
+      {
+        "name": "Certified ScrumMaster",
+        "date": "2022-05-01",
+        "issuer": "Scrum Alliance",
+        "url": "https://www.scrumalliance.org/"
+      },
+      {
+        "name": "Certified AWS Developer - Associate",
+        "date": "2021-02-01",
+        "issuer": "Amazon Web Services",
+        "url": "https://aws.amazon.com/certification/certified-aws-developer-associate/"
+      }
+    ],
+    "publications": [
+      {
+        "name": "Implementación de React para el Desarrollo de Aplicaciones Web Escalables",
+        "publisher": "Revista de Tecnología",
+        "releaseDate": "2022-03-01",
+        "url": "https://www.revista-tecnologia.com/",
+        "summary": "En este artículo, presento una guía práctica para la implementación de React en el desarrollo de aplicaciones web escalables."
+      },
+      {
+        "name": "Optimización del Rendimiento de Aplicaciones Web con Node.js",
+        "publisher": "Conferencia de Desarrolladores",
+        "releaseDate": "2021-10-01",
+        "summary": "En esta presentación, expongo estrategias para optimizar el rendimiento de aplicaciones web utilizando Node.js."
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "Experto",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "React",
+          "Angular",
+          "Vue.js",
+          "Node.js",
+          "Express.js"
+        ]
+      },
+      {
+        "name": "Python",
+        "level": "Intermedio",
+        "keywords": [
+          "Django",
+          "Flask",
+          "Data Science",
+          "Machine Learning"
+        ]
+      },
+      {
+        "name": "Java",
+        "level": "Básico",
+        "keywords": [
+          "Spring Boot",
+          "Android"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Español",
+        "fluency": "Nativo"
+      },
+      {
+        "language": "Inglés",
+        "fluency": "Avanzado"
+      }
+    ],
+    "interests": [
+      {
+        "name": "Tecnología",
+        "keywords": [
+          "Desarrollo web",
+          "Inteligencia artificial",
+          "Cloud computing"
+        ]
+      },
+      {
+        "name": "Música",
+        "keywords": [
+          "Guitarra",
+          "Piano",
+          "Composición musical"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "name": "Ana García",
+        "reference": "Puedo proporcionar referencias adicionales a solicitud."
+      }
+    ],
+    "projects": [
+      {
+        "name": "Sistema de gestión de inventario para Empresa X",
+        "isActive": true,
+        "startDate": "2020-01-01",
+        "endDate": "2020-06-30",
+        "description": "Desarrollo de una aplicación web escalable para gestionar el inventario de la empresa.",
+        "highlights": [
+          "Implementación de sistema de alertas para niveles bajos de inventario",
+          "Integración con el sistema de contabilidad",
+          "Reducción del tiempo dedicado a la gestión de inventario en un 30%"
+        ],
+        "url": "https://www.empresax.com/inventario"
+      },
+      {
+        "name": "Plataforma de chatbots para atención al cliente",
+        "isActive": true,
+        "startDate": "2021-03-15",
+        "endDate": "2021-09-30",
+        "description": "Diseño e implementación de una interfaz de usuario para chatbots.",
+        "highlights": [
+          "Integración con Dialogflow para respuestas automáticas",
+          "Colaboración con el equipo de soporte",
+          "Incremento del 20% en la tasa de resolución de consultas"
+        ],
+        "url": ""
+      },
+      {
+        "name": "Landing page para startup de tecnología",
+        "isActive": true,
+        "startDate": "2022-05-10",
+        "endDate": "2022-06-30",
+        "description": "Diseño y desarrollo de una landing page atractiva y rápida.",
+        "highlights": [
+          "Optimización para carga rápida y experiencia fluida en dispositivos móviles",
+          "Implementación de formularios de contacto y seguimiento de conversiones",
+          "Aumento del 15% en la tasa de conversión"
+        ],
+        "url": ""
+      },
+      {
+        "name": "Plataforma de impresión bajo demanda",
+        "isActive": true,
+        "startDate": "2023-02-15",
+        "endDate": "2023-08-31",
+        "description": "Diseño de arquitectura para manejar impresión bajo demanda de productos personalizados.",
+        "highlights": [
+          "Integración con servicios de impresión y envío",
+          "Implementación de sistema de pago seguro con Stripe"
+        ],
+        "url": ""
+      },
+      {
+        "name": "Rediseño de sitio web para ONG",
+        "isActive": true,
+        "startDate": "2023-10-01",
+        "endDate": "2023-12-15",
+        "description": "Mejora de la experiencia de usuario y accesibilidad en el sitio web de una organización benéfica.",
+        "highlights": [
+          "Optimización de la navegación y diseño responsive",
+          "Incorporación de secciones informativas y llamados a la acción",
+          "Colaboración con voluntarios y miembros de la ONG"
+        ],
+        "url": ""
+      },
+      {
+        "name": "Plataforma de e-commerce para tienda de moda",
+        "isActive": true,
+        "startDate": "2024-04-01",
+        "endDate": "2024-09-30",
+        "description": "Desarrollo de una tienda en línea con funcionalidades de carrito de compras y pago.",
+        "highlights": [
+          "Integración con pasarelas de pago (PayPal, Stripe)",
+          "Diseño de catálogo de productos y páginas de producto",
+          "Implementación de seguimiento de pedidos y notificaciones"
+        ],
+        "url": ""
+      },
+      {
+        "name": "Aplicación de seguimiento de hábitos saludables",
+        "isActive": true,
+        "startDate": "2025-02-15",
+        "endDate": "",
+        "description": "Desarrollo de una app para registrar y monitorear hábitos relacionados con la salud.",
+        "highlights": [
+          "Diseño de interfaz intuitiva y gamificación",
+          "Integración con APIs de salud y fitness",
+          "Seguimiento de metas y logros"
+        ],
+        "url": ""
+      }
+    ]
+  }
